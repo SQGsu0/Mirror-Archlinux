@@ -1,4 +1,4 @@
-#arch mirror 
+#-Mirror Arch~Linux
 #On For No Internet
 Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
 Server = https://mirrors.tuna.tsinghua.edu.cn/$repo/os/$arch
